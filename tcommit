@@ -1,0 +1,7 @@
+提交操作
+提交暂存区的数据
+在提交后有忘记提交的 可以commit --amend 
+提交后修改提交-m 说明 commit --amend
+
+提交后还想add git add forgotten_file  2  commit --amend 
+ 
